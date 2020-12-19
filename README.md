@@ -27,4 +27,5 @@ and the Steam x86 Desktop Version of Among Us.*
 The script is in a barely useable state and is open to configuration to suit your own play-style.
 
 Enjoy!
+
 A.
