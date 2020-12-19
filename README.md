@@ -10,10 +10,17 @@ You may need to install some drivers and the following pip packages to get it to
 You may also need to change the following line:
 `HID.FAILSAFE = True # Set this to false if the mouse gets stuck`
 
+To move around you can use the left analog stick for 8-position movement.
+
 To control the game, hold down the left trigger and move the right stick to move the cursor.
+
 Use the right trigger to click/hold so you can complete tasks.
+
 The DPAD is for slight movement adjustments so you can look sus.
+
 To mute/unmute Discord, press Back and it will momentarily blink Discord on screen and go back to the game.
+
+
 
 The script is in a barely useable state and is open to configuration to suit your own play-style.
 
