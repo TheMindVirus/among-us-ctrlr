@@ -4,13 +4,13 @@ A script to play Among Us (PC) on an Xbox One Controller with hotkey for muting/
 *This script is intended to be used with an Xbox One Controller via an Xbox One Wireless Adapter for Windows
 and the Steam x86 Desktop Version of Among Us.*
 
-**You may need to install some drivers and the following pip packages to get it to work properly:**
+**You may need to install Python 3 and the following pip packages to get it to work properly:**
 
 `pip3 install XInput-Python pyautogui`
 
 **You may also need to change the following line:**
 
-`HID.FAILSAFE = True # Set this to false if the mouse gets stuck`
+`HID.FAILSAFE = True # Set this to False if the mouse gets stuck`
 
 **To move around you can use the left analog stick for 8-position movement.**
 
@@ -24,7 +24,7 @@ and the Steam x86 Desktop Version of Among Us.*
 
 
 
-The script is in a barely useable state and is open to configuration to suit your own play-style.
+The script is in a barely usable state and is open to configuration to suit your own play-style.
 
 Enjoy!
 
