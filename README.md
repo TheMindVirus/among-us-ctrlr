@@ -26,7 +26,8 @@ and the Steam x86 Desktop Version of Among Us.*
 ### Update
 
 For this script to work Steam Controller Input needs to be switched off for Xbox Controllers in Steam Among Us Settings. \
-This can be found in: Right Click Among Us -> Properties -> Controller -> Override For Among Us = Disable Steam Input
+This can be found in: Right Click Among Us -> Properties -> Controller -> Disable Steam Input \
+This option is currently broken as of 28/03/2021
 
 ### Please Note
 
