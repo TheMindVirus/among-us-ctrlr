@@ -1,4 +1,4 @@
-import xinput #import XInput as xinput #./python.exe -m pip install XInput-python
+import XInput as xinput #./python.exe -m pip install XInput-python
 import pyautogui as HID #./python.exe -m pip install pyautogui
 import sys, time
 
