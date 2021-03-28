@@ -1,5 +1,5 @@
-import xinput #import XInput as xinput #python.exe -m pip install xinput
-import pyautogui as HID #python.exe -m pip install pyautogui
+import xinput #import XInput as xinput #./python.exe -m pip install XInput-python
+import pyautogui as HID #./python.exe -m pip install pyautogui
 import sys, time
 
 TRIGGER_THRESHOLD = 0.8
