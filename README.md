@@ -23,7 +23,7 @@ and the Steam x86 Desktop Version of Among Us.*
 **To mute/unmute Discord, press Back and it will momentarily blink Discord on screen and go back to the game.**
 
 
-## Update
+### Update
 
 For this script to work Steam Controller Input needs to be switched off for Xbox Controllers in Steam Among Us Settings. \
 This can be found in: Right Click Among Us -> Properties -> Controller -> Override For Among Us = Disable Steam Input
